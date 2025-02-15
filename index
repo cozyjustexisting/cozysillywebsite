@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cozyjustexisting</title>
+        <meta charset="UTF-8">
+        <style type="text/css">
+
+            *
+            {
+                margin: 2px;
+                padding: 2px;
+                box-sizing: border-box;
+                font-family: Arial;
+            }
+
+            #Logo-div
+            {
+                width: 100%;
+                min-height: 50px;
+                background-color: lightgray;
+                padding-left: 1%;
+                margin-bottom: 10px;
+                line-height: 50px;
+            }
+
+            #Nav
+            {
+                width: 100%;
+                min-height: 30px;
+                padding-left: 2%;
+                line-height: 30px;
+                text-align: center;
+                margin-bottom: 10px;
+
+            }
+
+            #HB1
+            {
+                width: 100%;
+                min-height: 100px;
+                background-color: lightgray; 
+                text-align: center;
+                line-height: 100px;
+                margin-bottom: 10px;
+                font-size: x-large;
+            }
+
+            #Maind
+            {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+
+            #SideB
+            {
+                width: 20%;
+                min-height: 400px;
+                background-color: lightgray;
+                float: left;
+                text-align: left;
+                line-height: 25px;
+            }
+
+            #BodyD
+            {
+                width: 78.75%;
+                min-height: 400px;
+                background-color: lightgray;
+                float: right;
+                text-align: left;
+                line-height: 25px;
+            }
+
+            .clearfix::after
+            {
+                content: "";
+                display: block;
+                clear:both
+            }
+
+            #Footer
+            {
+                width: 100%;
+                min-height: 100px;
+                background-color: lightgray;
+                float: none;
+                text-align: center;
+                line-height: 50px;
+                
+            }
+
+            
+            
+        </style>
+    </head>
+    <body>
+
+        <div id="Logo-div">
+            i'm cozyjustexisting btw
+            </div>
+        <div id="Nav">
+            <a href="FRCC.html">
+                <button>Ferric Corporation</button>
+            </a>
+            <a href="NXO.html">
+                <button>Nexero Research Ltd.</button>
+               </a>
+        </div>
+        <div id="HB1">
+            I did this with no help from anyone at all (excluding any and all tutorials)
+        </div>
+        <div id="Footer">Cozyjustexisting, 2025</div>
+       
+    </body>
+</html>
